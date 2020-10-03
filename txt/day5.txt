@@ -1,0 +1,66 @@
+<section class="py-5 text-center container"><h2> Day 5 - 08 OCT Thursday
+</h2>
+    <div class="row pb-lg-5 ">
+    
+
+      <div class="col-lg-3 col-md-3 p-3 hover">
+        <h3 class="font-weight-light"><small class="text-danger"></small> Making Space Data Accessible</h3>
+        <p class="lead text-bold"></p>
+        <p class="text-bold">Timing: <strong>05:00 – 05:30 PM IST</strong></p>
+        <p>by  Rishabh Chaturvedi & Sanket Daundkar (Associates, Kawa space)</p><p>
+
+         <a href="#" id="openclass" class="btn disabled  btn-danger my-2">Join the Session </a>
+        </p>
+      </div>
+
+
+
+
+
+ <div class="col-lg-3 col-md-3 p-3 hover">
+        <h3 class="font-weight-light text-info"><small class="text-primary">Keynote:</small> Remote Sensing: Supporting the Sustainability of Earth’s Finite Resources & Planetary Exploration</h3>
+        <p class="lead text-bold"></p>
+        <p class="text-bold">Timing: <strong>05:30 – 06:00 PM IST</strong></p>
+        <p>By Dr. Praveen K. Thakur (Scientist, IIRS, ISRO)
+      </p><p>
+
+         <a href="#" id="openclass" class="btn btn-danger disabled my-2">Join the Session </a>
+
+        </p>
+      </div>
+
+
+
+ <div class="col-lg-3 col-md-3 p-3 hover">
+        <h3 class="font-weight-light text-info"><small class="text-warning">Workshop:</small> Realtime tracking of satellites & Space Objects</h3>
+        <p class="lead text-bold"></p>
+        <p class="text-bold">Timing: <strong>06:00 – 07:00 PM IST</strong></p>
+        <p>By Subramani (Secretary & Station-in-Charge, Upagrah Amateur Radio Club VU2URC, ISRO Satellite Centre)
+      </p><p>
+
+         <a href="#" id="openclass" class="btn btn-danger disabled my-2">Join the Session </a>
+
+        </p>
+      </div>
+
+
+
+ <div class="col-lg-3 col-md-3 p-3 hover">
+        <h3 class="font-weight-light text-success"><small >Competition:</small> Estrella <em>Palatte  </em></h3>
+        <p class="lead text-bold"></p>
+        <p class="text-bold">Timing: <strong>All Day</strong></p>
+        <p>Hand Poster Designing
+      </p><p>
+
+         <a href="#" id="openclass" class="btn btn-danger my-2 disabled">Join the Session </a>
+        </p>
+      </div>
+    </div>
+      <div class="row">
+      <div class="col-lg-4 col-md-3 mx-auto">
+      <p>Love What we do? Consider donating!
+</p>
+<a href="https://rzp.io/l/xITXBPP" class="btn btn-primary text-center my-2">Donate Now</a>
+      </div></div>
+
+  </section> 

@@ -1,0 +1,65 @@
+<section class="py-5 text-center container"><h2> Day 2 - 05 OCT Monday</h2>
+    <div class="row pb-lg-5 ">
+    
+
+      <div class="col-lg-3 col-md-3 p-3 hover">
+        <h3 class="font-weight-light"><small class="text-danger">Keynote – Remote Sensing</small></h3>
+        <p class="lead text-bold"></p>
+        <p class="text-bold">Timing: <strong>05:00 – 05:30 PM IST</strong></p>
+        <p>by Awais Ahmed (Founder & CEO, Pixxel)</p><p>
+
+         <a href="#" id="openclass" class="btn disabled  btn-danger my-2">Join the Session </a>
+        </p>
+      </div>
+
+
+
+
+
+ <div class="col-lg-3 col-md-3 p-3 hover">
+        <h3 class="font-weight-light text-info"><small class="text-primary">Keynote:</small> Understanding Weather and Climate through Satellite Data</h3>
+        <p class="lead text-bold"></p>
+        <p class="text-bold">Timing: <strong>05:30 – 06:30 PM IST</strong></p>
+        <p>By Prof. J Srinivasan (Distinguished Scientist, IISc)
+      </p><p>
+
+         <a href="#" id="openclass" class="btn btn-danger disabled my-2">Join the Session </a>
+
+        </p>
+      </div>
+
+
+
+ <div class="col-lg-3 col-md-3 p-3 hover">
+        <h3 class="font-weight-light text-info"><small class="text-warning">Workshop:</small> Remote Sensing Satellites and Optical Image Processing</h3>
+        <p class="lead text-bold"></p>
+        <p class="text-bold">Timing: <strong>06:30 – 07:30 PM IST</strong></p>
+        <p>By Marcelo Fernando (Professor, Universidad Privada Franz Tamayo)
+      </p><p>
+
+         <a href="#" id="openclass" class="btn btn-danger disabled my-2">Join the Session </a>
+
+        </p>
+      </div>
+
+
+
+ <div class="col-lg-3 col-md-3 p-3 hover">
+        <h3 class="font-weight-light text-success"><small >Competition:</small> Gordian<em>Knot</em></h3>
+        <p class="lead text-bold"></p>
+        <p class="text-bold">Timing: <strong>07:00 – 07:30 PM IST</strong></p>
+        <p>Online Treasure Hunt
+      </p><p>
+
+         <a href="#" id="openclass" class="btn btn-danger my-2 disabled">Join the Session </a>
+        </p>
+      </div>
+    </div>
+      <div class="row">
+      <div class="col-lg-4 col-md-3 mx-auto">
+      <p>Love What we do? Consider donating!
+</p>
+<a href="https://rzp.io/l/xITXBPP" class="btn btn-primary text-center my-2">Donate Now</a>
+      </div></div>
+
+  </section> 

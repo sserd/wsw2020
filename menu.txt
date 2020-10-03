@@ -1,0 +1,7 @@
+
+    <a class="p-2 text-dark" href="index.html">Home</a>
+    <a class="p-2 text-dark" href="schedule.html">Schedule</a>
+        <a class="p-2 text-dark" href="/spacetalks.html">Previous Spacetalks</a>
+    <a class="p-2 text-dark" target="_blank" href="https://edgeofspace.in/">Edge Of Space</a>
+    <a class="p-2 text-dark" target="_blank" href="https://sserd.org/internship">SSERD Internship</a>
+    <a class="p-2 btn btn-sm btn-outline-secondary" href="https://www.youtube.com/sserd?sub_confirmation=1">Logout</a>

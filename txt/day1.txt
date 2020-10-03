@@ -1,0 +1,54 @@
+<section class="py-5 text-center container"><h2> Day 1 - 04 OCT Sunday </h2>
+    <div class="row pb-lg-5 ">
+    
+
+      <div class="col-lg-4 col-md-4 p-4 hover">
+        <h3 class="font-weight-light"><small class="text-danger">Inauguration and Welcome Speech</small></h3>
+        <p class="lead text-bold"></p>
+        <p class="text-bold">Timing: <strong>05:00 – 05:30 PM IST</strong></p>
+        <p>By Nikhitha C (Co-Founder, CEO) & Sujay Sreedhar (Co-Founder, Chairman)
+      </p><p>
+
+         <a href="#" id="openclass" class="btn disabled  btn-danger my-2">Join the Session </a>
+        </p>
+      </div>
+
+
+
+
+
+ <div class="col-lg-4 col-md-4 p-4 hover">
+        <h3 class="font-weight-light text-info"><small class="text-primary">Keynote:</small> Taking Geospatial to the Grassroots</h3>
+        <p class="lead text-bold"></p>
+        <p class="text-bold">Timing: <strong>05:00 – 05:30 PM IST</strong></p>
+        <p>By Prof. Arup Dasgupta
+      </p><p>
+
+         <a href="#" id="openclass" class="btn btn-danger disabled my-2">Join the Session </a>
+
+        </p>
+      </div>
+
+
+
+
+
+ <div class="col-lg-4 col-md-4 p-4 hover">
+        <h3 class="font-weight-light text-success"><small >Competition:</small> Satellite – <em>X</em></h3>
+        <p class="lead text-bold"></p>
+        <p class="text-bold">Timing: <strong>All Day</strong></p>
+        <p>Paper Presentation on Satellite Design Ideas
+      </p><p>
+
+         <a href="#" id="openclass" class="btn btn-danger my-2 disabled">Join the Session </a>
+        </p>
+      </div>
+    </div>
+      <div class="row">
+      <div class="col-lg-4 col-md-3 mx-auto">
+      <p>Love What we do? Consider donating!
+</p>
+<a href="https://rzp.io/l/xITXBPP" class="btn btn-primary text-center my-2">Donate Now</a>
+      </div></div>
+
+  </section> 

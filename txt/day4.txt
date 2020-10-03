@@ -1,0 +1,55 @@
+<section class="py-5 text-center container"><h2> Day 4 - 07 OCT Wednesday</h2>
+    <div class="row pb-lg-5 ">
+    
+
+      <div class="col-lg-4 col-md-4 p-4 hover">
+        <h3 class="font-weight-light"><small class="text-danger">Keynote</small>Weather Forecasting Satellites </h3>
+        <p class="lead text-bold"></p>
+        <p class="text-bold">Timing: <strong>05:00 – 05:30 PM IST</strong></p>
+        <p>by Abhilasha Purwar (Founder & CEO, Blue Sky Analytics)</p><p>
+
+         <a href="#" id="openclass" class="btn disabled  btn-danger my-2">Join the Session </a>
+        </p>
+      </div>
+
+
+
+
+
+ <div class="col-lg-4 col-md-4 p-4 hover">
+        <h3 class="font-weight-light text-info"><small class="text-primary">Keynote:</small> Communication & Navigational Satellites</h3>
+        <p class="lead text-bold"></p>
+        <p class="text-bold">Timing: <strong>05:30 – 06:30 PM IST</strong></p>
+        <p>By Devleena (CEO, Numer8)
+      </p><p>
+
+         <a href="#" id="openclass" class="btn btn-danger disabled my-2">Join the Session </a>
+
+        </p>
+      </div>
+
+
+
+ 
+
+
+
+ <div class="col-lg-4 col-md-4 p-4 hover">
+        <h3 class="font-weight-light text-success"><small >Competition:</small> Sphinxstellite</h3>
+        <p class="lead text-bold"></p>
+        <p class="text-bold">Timing: <strong>07:00 – 08:00 PM IST</strong></p>
+        <p>Online Quiz on Space Technology & Satellites
+      </p><p>
+
+         <a href="#" id="openclass" class="btn btn-danger my-2 disabled">Join the Session </a>
+        </p>
+      </div>
+    </div>
+      <div class="row">
+      <div class="col-lg-4 col-md-3 mx-auto">
+      <p>Love What we do? Consider donating!
+</p>
+<a href="https://rzp.io/l/xITXBPP" class="btn btn-primary text-center my-2">Donate Now</a>
+      </div></div>
+
+  </section> 

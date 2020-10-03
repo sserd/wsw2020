@@ -1,0 +1,57 @@
+<section class="py-5 text-center container"><h2> Day 7 - 10 OCT Saturday
+ </h2>
+    <div class="row pb-lg-5 ">
+    
+
+ <div class="col-lg-4 col-md-4 p-4 hover">
+        <h3 class="font-weight-light text-info"><small class="text-primary">Workshop:</small>  Space Mission Design</h3>
+        <p class="lead text-bold"></p>
+        <p class="text-bold">Timing: <strong>02:00 – 04:00 PM IST</strong></p>
+        <p>By Dani Sors Raurell (Open Cosmos)
+      </p><p>
+
+         <a href="#" id="openclass" class="btn btn-danger disabled my-2">Join the Session </a>
+
+        </p>
+      </div>
+
+
+
+      <div class="col-lg-4 col-md-4 p-4 hover">
+        <h3 class="font-weight-light"><small class="text-danger">Final Competitions</small></h3>
+        <p class="lead text-bold"></p>
+        <p class="text-bold">Timing: <strong>05:00 – 06:00 PM IST</strong></p>
+        <p>
+      </p><p>
+
+         <a href="#" id="openclass" class="btn disabled  btn-danger my-2">Join the Session </a>
+        </p>
+      </div>
+
+
+
+
+
+
+
+
+
+ <div class="col-lg-4 col-md-4 p-4 hover">
+        <h3 class="font-weight-light text-success"><small >Closing</small> </h3>
+        <p class="lead text-bold"></p>
+        <p class="text-bold">Timing: <strong>06:00 – 07:00 PM IST</strong></p>
+        <p>Keynote by SSERD Chairman & Winner Announcements
+      </p><p>
+
+         <a href="#" id="openclass" class="btn btn-danger my-2 disabled">Join the Session </a>
+        </p>
+      </div>
+    </div>
+      <div class="row">
+      <div class="col-lg-4 col-md-3 mx-auto">
+      <p>Love What we do? Consider donating!
+</p>
+<a href="https://rzp.io/l/xITXBPP" class="btn btn-primary text-center my-2">Donate Now</a>
+      </div></div>
+
+  </section> 
