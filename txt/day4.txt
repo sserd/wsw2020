@@ -8,7 +8,7 @@
         <p class="text-bold">Timing: <strong>05:00 – 05:30 PM IST</strong></p>
         <p>by Abhilasha Purwar (Founder & CEO, Blue Sky Analytics)</p><p>
 
-         <a href="#" id="openclass" class="btn disabled  btn-danger my-2">Join the Session </a>
+         <a href="https://youtu.be/140n5-kh0h4" target="_blank" id="openclass" class="btn  btn-danger my-2">Join the Session </a>
         </p>
       </div>
 
@@ -23,7 +23,7 @@
         <p>By Devleena (CEO, Numer8)
       </p><p>
 
-         <a href="#" id="openclass" class="btn btn-danger disabled my-2">Join the Session </a>
+         <a href="https://youtu.be/z8Gb23brj0A" target="_blank" id="openclass" class="btn btn-danger my-2">Join the Session </a>
 
         </p>
       </div>

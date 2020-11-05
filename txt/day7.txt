@@ -10,7 +10,9 @@
         <p>By Dani Sors Raurell (Open Cosmos)
       </p><p>
 
-         <a href="#" id="openclass" class="btn btn-danger disabled my-2">Join the Session </a>
+         <a href="https://www.airmeet.com/e/8a2608a0-0654-11eb-8615-d11a0ce15cc8" id="openclass" class="btn btn-danger  my-2">Join the Session on Airmeet</a><br>
+                  <a href="https://youtu.be/9I_PE-PDH7M" id="openclass" class="btn btn-danger  my-2">Join the Session on Airmeet</a>
+
 
         </p>
       </div>
@@ -24,7 +26,7 @@
         <p>
       </p><p>
 
-         <a href="#" id="openclass" class="btn disabled  btn-danger my-2">Join the Session </a>
+         <a href="" id="openclass" class="btn disabled  btn-danger my-2">Join the Session </a>
         </p>
       </div>
 
@@ -43,7 +45,7 @@
         <p>Keynote by SSERD Chairman & Winner Announcements
       </p><p>
 
-         <a href="#" id="openclass" class="btn btn-danger my-2 disabled">Join the Session </a>
+         <a href="https://youtu.be/7ay8ooxvzCg" id="openclass" class="btn btn-danger my-2 ">Join the Session </a>
         </p>
       </div>
     </div>

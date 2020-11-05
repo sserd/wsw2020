@@ -9,7 +9,7 @@
         <p class="text-bold">Timing: <strong>05:00 – 05:30 PM IST</strong></p>
         <p>by  Rishabh Chaturvedi & Sanket Daundkar (Associates, Kawa space)</p><p>
 
-         <a href="#" id="openclass" class="btn disabled  btn-danger my-2">Join the Session </a>
+         <a href="https://youtu.be/30N6fR9K8Ik" target="_blank" id="openclass" class="btn btn-danger my-2">Join the Session </a>
         </p>
       </div>
 
@@ -24,7 +24,7 @@
         <p>By Dr. Praveen K. Thakur (Scientist, IIRS, ISRO)
       </p><p>
 
-         <a href="#" id="openclass" class="btn btn-danger disabled my-2">Join the Session </a>
+         <a href="https://youtu.be/10ZtWIG_Apc" target="_blank" class="btn btn-danger my-2">Join the Session </a>
 
         </p>
       </div>
@@ -38,7 +38,7 @@
         <p>By Subramani (Secretary & Station-in-Charge, Upagrah Amateur Radio Club VU2URC, ISRO Satellite Centre)
       </p><p>
 
-         <a href="#" id="openclass" class="btn btn-danger disabled my-2">Join the Session </a>
+         <a href="https://youtu.be/xQoUA9FiGcM" target="_blank" class="btn btn-danger my-2">Join the Session </a>
 
         </p>
       </div>
@@ -50,9 +50,15 @@
         <p class="lead text-bold"></p>
         <p class="text-bold">Timing: <strong>All Day</strong></p>
         <p>Hand Poster Designing
-      </p><p>
+      </p>Themes:
+<br>
+1. Evolution of Artificial Satellites
+<br>
+2. Uses of Artificial Satellites in the modern world
+<br>
+3. International Space Station<p>
 
-         <a href="#" id="openclass" class="btn btn-danger my-2 disabled">Join the Session </a>
+         <a href="https://forms.gle/E4s2Hf7TwVKFawor5" target="_blank" class="btn btn-danger my-2">Submit Poster </a>
         </p>
       </div>
     </div>

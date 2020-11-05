@@ -8,7 +8,7 @@
         <p class="text-bold">Timing: <strong>05:00 – 05:30 PM IST</strong></p>
         <p>by  Prof (Dr.) Annapurni Subramaniam (Director & Professor, Indian Institute of Astrophysics)</p><p>
 
-         <a href="#" id="openclass" class="btn disabled  btn-danger my-2">Join the Session </a>
+         <a href="https://youtu.be/wSJ8c4zV4YI" target="_blank" class="btn btn-danger my-2">Join the Session </a>
         </p>
       </div>
 
@@ -23,7 +23,7 @@
         <p>By Prateep Basu (Co-founder & CEO, Satsure)
       </p><p>
 
-         <a href="#" id="openclass" class="btn btn-danger disabled my-2">Join the Session </a>
+         <a href="https://youtu.be/d7zSu4EKPj4" target="_blank" class="btn btn-danger  my-2">Join the Session </a>
 
         </p>
       </div>
@@ -37,7 +37,7 @@
         <p>By SSERD
       </p><p>
 
-         <a href="#" id="openclass" class="btn btn-danger disabled my-2">Join the Session </a>
+         <a href="https://youtu.be/xiVqQImDiUE"  target="_blank" class="btn btn-danger  my-2">Join the Session </a>
 
         </p>
       </div>
@@ -50,8 +50,9 @@
         <p class="text-bold">Timing: <strong>All Day</strong></p>
         <p>Blog Writing Contest
       </p><p>
+ </p><p>
 
-         <a href="#" id="openclass" class="btn btn-danger my-2 disabled">Join the Session </a>
+        
         </p>
       </div>
     </div>

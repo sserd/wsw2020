@@ -9,7 +9,7 @@
         <p>By Nikhitha C (Co-Founder, CEO) & Sujay Sreedhar (Co-Founder, Chairman)
       </p><p>
 
-         <a href="#" id="openclass" class="btn disabled  btn-danger my-2">Join the Session </a>
+         <a href="https://www.youtube.com/watch?v=gmxdJ2xljVY" target="_blank"  id="openclass" class="btn btn-danger my-2">Join the Session </a>
         </p>
       </div>
 
@@ -18,13 +18,13 @@
 
 
  <div class="col-lg-4 col-md-4 p-4 hover">
-        <h3 class="font-weight-light text-info"><small class="text-primary">Keynote:</small> Taking Geospatial to the Grassroots</h3>
+        <h3 class="font-weight-light text-info"><small class="text-primary">Keynote:</small> Taking Space Applications to the Grassroots</h3>
         <p class="lead text-bold"></p>
         <p class="text-bold">Timing: <strong>05:00 – 05:30 PM IST</strong></p>
         <p>By Prof. Arup Dasgupta
       </p><p>
 
-         <a href="#" id="openclass" class="btn btn-danger disabled my-2">Join the Session </a>
+         <a href="https://www.youtube.com/watch?v=gmxdJ2xljVY" target="_blank"  id="openclass" class="btn btn-danger my-2">Join the Session </a>
 
         </p>
       </div>
@@ -40,7 +40,7 @@
         <p>Paper Presentation on Satellite Design Ideas
       </p><p>
 
-         <a href="#" id="openclass" class="btn btn-danger my-2 disabled">Join the Session </a>
+         <a href="https://www.sserd.org/wsw2020/#satellitex" id="openclass" class="btn btn-danger my-2">Join the Session </a>
         </p>
       </div>
     </div>
